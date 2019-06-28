@@ -1,0 +1,559 @@
+40 40
+player 14 28 0 127.0.0.1 nimac 0 false 1 1 0 1533823963510
+bomb 12 30 25 0 1
+wall 4 1
+wall 8 1
+wall 14 1
+wall 22 1
+wall 26 1
+wall 30 1
+wall 32 1
+wall 1 2
+wall 2 2
+wall 4 2
+wall 6 2
+wall 7 2
+wall 11 2
+wall 13 2
+wall 14 2
+wall 21 2
+wall 23 2
+wall 24 2
+wall 25 2
+wall 28 2
+wall 29 2
+wall 34 2
+wall 36 2
+wall 2 3
+wall 4 3
+wall 28 3
+wall 34 3
+wall 2 4
+wall 8 4
+wall 10 4
+wall 13 4
+wall 16 4
+wall 17 4
+wall 18 4
+wall 24 4
+wall 25 4
+wall 28 4
+wall 33 4
+wall 6 5
+wall 10 5
+wall 12 5
+wall 22 5
+wall 24 5
+wall 9 6
+wall 10 6
+wall 11 6
+wall 12 6
+wall 13 6
+wall 14 6
+wall 15 6
+wall 18 6
+wall 19 6
+wall 23 6
+wall 24 6
+wall 25 6
+wall 28 6
+wall 30 6
+wall 31 6
+wall 32 6
+wall 37 6
+wall 38 6
+wall 4 7
+wall 10 7
+wall 14 7
+wall 16 7
+wall 20 7
+wall 32 7
+wall 36 7
+wall 2 8
+wall 5 8
+wall 13 8
+wall 14 8
+wall 28 8
+wall 29 8
+wall 33 8
+wall 37 8
+wall 38 8
+wall 10 9
+wall 14 9
+wall 16 9
+wall 18 9
+wall 30 9
+wall 32 9
+wall 1 10
+wall 4 10
+wall 11 10
+wall 15 10
+wall 17 10
+wall 23 10
+wall 29 10
+wall 30 10
+wall 31 10
+wall 36 10
+wall 37 10
+wall 38 10
+wall 2 11
+wall 16 11
+wall 18 11
+wall 22 11
+wall 1 12
+wall 2 12
+wall 5 12
+wall 7 12
+wall 8 12
+wall 11 12
+wall 12 12
+wall 17 12
+wall 22 12
+wall 27 12
+wall 34 12
+wall 36 12
+wall 2 13
+wall 6 13
+wall 20 13
+wall 22 13
+wall 28 13
+wall 30 13
+wall 32 13
+wall 36 13
+wall 38 13
+wall 1 14
+wall 9 14
+wall 10 14
+wall 12 14
+wall 14 14
+wall 15 14
+wall 17 14
+wall 18 14
+wall 20 14
+wall 22 14
+wall 23 14
+wall 32 14
+wall 33 14
+wall 4 15
+wall 6 15
+wall 16 15
+wall 26 15
+wall 30 15
+wall 34 15
+wall 7 16
+wall 8 16
+wall 9 16
+wall 13 16
+wall 16 16
+wall 17 16
+wall 18 16
+wall 19 16
+wall 21 16
+wall 22 16
+wall 27 16
+wall 30 16
+wall 31 16
+wall 36 16
+wall 18 17
+wall 22 17
+wall 28 17
+wall 36 17
+wall 1 18
+wall 3 18
+wall 9 18
+wall 14 18
+wall 16 18
+wall 24 18
+wall 25 18
+wall 29 18
+wall 32 18
+wall 33 18
+wall 37 18
+wall 38 18
+wall 16 19
+wall 20 19
+wall 22 19
+wall 34 19
+wall 5 20
+wall 7 20
+wall 9 20
+wall 10 20
+wall 15 20
+wall 19 20
+wall 21 20
+wall 26 20
+wall 27 20
+wall 33 20
+wall 36 20
+wall 16 21
+wall 28 21
+wall 30 21
+wall 9 22
+wall 13 22
+wall 16 22
+wall 23 22
+wall 24 22
+wall 32 22
+wall 34 22
+wall 36 22
+wall 37 22
+wall 38 22
+wall 14 23
+wall 24 23
+wall 32 23
+wall 34 23
+wall 2 24
+wall 3 24
+wall 6 24
+wall 7 24
+wall 10 24
+wall 12 24
+wall 13 24
+wall 18 24
+wall 20 24
+wall 21 24
+wall 23 24
+wall 26 24
+wall 27 24
+wall 28 24
+wall 33 24
+wall 4 25
+wall 6 25
+wall 12 25
+wall 20 25
+wall 28 25
+wall 34 25
+wall 1 26
+wall 2 26
+wall 3 26
+wall 7 26
+wall 10 26
+wall 13 26
+wall 17 26
+wall 18 26
+wall 25 26
+wall 28 26
+wall 33 26
+wall 35 26
+wall 36 26
+wall 37 26
+wall 10 27
+wall 14 27
+wall 16 27
+wall 20 27
+wall 5 28
+wall 6 28
+wall 8 28
+wall 11 28
+wall 22 28
+wall 26 28
+wall 30 28
+wall 33 28
+wall 36 28
+wall 38 28
+wall 2 29
+wall 10 29
+wall 14 29
+wall 26 29
+wall 28 29
+wall 34 29
+wall 3 30
+wall 9 30
+wall 13 30
+wall 16 30
+wall 20 30
+wall 24 30
+wall 26 30
+wall 30 30
+wall 32 30
+wall 33 30
+wall 35 30
+wall 36 30
+wall 2 31
+wall 6 31
+wall 12 31
+wall 16 31
+wall 18 31
+wall 20 31
+wall 28 31
+wall 30 31
+wall 34 31
+wall 38 31
+wall 1 32
+wall 4 32
+wall 5 32
+wall 8 32
+wall 12 32
+wall 18 32
+wall 27 32
+wall 28 32
+wall 31 32
+wall 34 32
+wall 37 32
+wall 8 33
+wall 14 33
+wall 20 33
+wall 24 33
+wall 30 33
+wall 32 33
+wall 38 33
+wall 12 34
+wall 17 34
+wall 18 34
+wall 20 34
+wall 24 34
+wall 28 34
+wall 34 34
+wall 2 35
+wall 4 35
+wall 10 35
+wall 24 35
+wall 26 35
+wall 32 35
+wall 36 35
+wall 1 36
+wall 6 36
+wall 8 36
+wall 10 36
+wall 11 36
+wall 14 36
+wall 19 36
+wall 22 36
+wall 25 36
+wall 26 36
+wall 27 36
+wall 34 36
+wall 37 36
+wall 2 37
+wall 4 37
+wall 32 37
+wall 34 37
+wall 36 37
+wall 38 37
+wall 5 38
+wall 7 38
+wall 9 38
+wall 17 38
+wall 19 38
+wall 21 38
+wall 24 38
+wall 29 38
+wall 30 38
+wall 34 38
+wall 35 38
+door 10 36 false
+enemy 1 22 8
+enemy 1 26 10
+enemy 1 37 34
+enemy 1 14 22
+enemy 1 37 24
+enemy 1 12 16
+enemy 1 28 37
+enemy 1 4 19
+enemy 1 18 18
+enemy 1 4 26
+enemy 1 22 7
+enemy 1 20 10
+enemy 1 38 16
+enemy 1 1 6
+enemy 1 7 10
+enemy 1 29 12
+enemy 1 22 21
+powerUp 6 4 1 0 false
+powerUp 5 8 1 1 false
+powerUp 6 14 1 0 false
+powerUp 3 22 1 1 false
+powerUp 4 26 1 100 false
+powerUp 2 30 1 -1 false
+powerUp 6 2 2 0 false
+powerUp 5 7 2 -1 false
+powerUp 4 11 2 -100 false
+powerUp 2 13 2 -1 false
+powerUp 1 14 2 1 false
+powerUp 1 21 2 1 false
+powerUp 5 25 2 1 false
+powerUp 5 29 2 1 false
+powerUp 6 36 2 0 false
+powerUp 4 2 3 100 false
+powerUp 5 4 3 -1 false
+powerUp 2 34 3 1 false
+powerUp 1 2 4 -1 false
+powerUp 5 13 4 -1 false
+powerUp 5 24 4 1 false
+powerUp 4 25 4 -100 false
+powerUp 2 33 4 1 false
+powerUp 3 9 6 1 false
+powerUp 2 12 6 -1 false
+powerUp 1 13 6 1 false
+powerUp 3 15 6 1 false
+powerUp 2 18 6 1 false
+powerUp 4 23 6 100 false
+powerUp 5 24 6 -1 false
+powerUp 2 28 6 1 false
+powerUp 1 32 6 1 false
+powerUp 6 37 6 0 false
+powerUp 4 4 7 100 false
+powerUp 1 10 7 1 false
+powerUp 6 16 7 0 false
+powerUp 1 20 7 1 false
+powerUp 4 32 7 100 false
+powerUp 3 2 8 1 false
+powerUp 4 5 8 -100 false
+powerUp 3 13 8 1 false
+powerUp 3 14 8 -1 false
+powerUp 4 29 8 -100 false
+powerUp 6 37 8 0 false
+powerUp 4 38 8 100 false
+powerUp 5 10 9 1 false
+powerUp 5 14 9 -1 false
+powerUp 6 16 9 0 false
+powerUp 1 30 9 -1 false
+powerUp 1 32 9 -1 false
+powerUp 1 4 10 -1 false
+powerUp 1 11 10 1 false
+powerUp 4 23 10 -100 false
+powerUp 5 29 10 -1 false
+powerUp 1 30 10 1 false
+powerUp 2 31 10 1 false
+powerUp 2 37 10 -1 false
+powerUp 6 38 10 0 false
+powerUp 3 18 11 1 false
+powerUp 2 22 11 1 false
+powerUp 2 7 12 -1 false
+powerUp 6 8 12 0 false
+powerUp 3 11 12 1 false
+powerUp 5 17 12 -1 false
+powerUp 3 22 12 1 false
+powerUp 3 27 12 1 false
+powerUp 3 36 12 -1 false
+powerUp 1 2 13 1 false
+powerUp 1 6 13 -1 false
+powerUp 6 22 13 0 false
+powerUp 2 32 13 1 false
+powerUp 2 38 13 1 false
+powerUp 6 9 14 0 false
+powerUp 5 12 14 1 false
+powerUp 1 14 14 -1 false
+powerUp 1 20 14 -1 false
+powerUp 4 23 14 -100 false
+powerUp 5 32 14 1 false
+powerUp 2 33 14 1 false
+powerUp 6 6 15 0 false
+powerUp 1 16 15 1 false
+powerUp 2 26 15 -1 false
+powerUp 6 30 15 0 false
+powerUp 5 34 15 1 false
+powerUp 3 7 16 1 false
+powerUp 3 8 16 -1 false
+powerUp 4 13 16 100 false
+powerUp 4 17 16 100 false
+powerUp 4 19 16 100 false
+powerUp 3 31 16 -1 false
+powerUp 5 36 16 1 false
+powerUp 6 18 17 0 false
+powerUp 2 22 17 -1 false
+powerUp 6 28 17 0 false
+powerUp 2 36 17 1 false
+powerUp 1 14 18 1 false
+powerUp 6 16 18 0 false
+powerUp 5 24 18 1 false
+powerUp 3 29 18 1 false
+powerUp 3 32 18 1 false
+powerUp 6 37 18 0 false
+powerUp 1 38 18 1 false
+powerUp 3 16 19 -1 false
+powerUp 4 22 19 100 false
+powerUp 5 34 19 1 false
+powerUp 1 5 20 1 false
+powerUp 3 7 20 1 false
+powerUp 4 9 20 100 false
+powerUp 2 15 20 1 false
+powerUp 3 19 20 -1 false
+powerUp 1 26 20 1 false
+powerUp 5 33 20 1 false
+powerUp 2 36 20 -1 false
+powerUp 1 28 21 1 false
+powerUp 2 30 21 1 false
+powerUp 6 13 22 0 false
+powerUp 1 16 22 1 false
+powerUp 5 24 22 -1 false
+powerUp 6 36 22 0 false
+powerUp 6 14 23 0 false
+powerUp 6 24 23 0 false
+powerUp 1 32 23 1 false
+powerUp 6 34 23 0 false
+powerUp 2 3 24 -1 false
+powerUp 3 6 24 -1 false
+powerUp 3 10 24 1 false
+powerUp 6 12 24 0 false
+powerUp 5 18 24 -1 false
+powerUp 6 20 24 0 false
+powerUp 3 21 24 1 false
+powerUp 5 23 24 -1 false
+powerUp 6 26 24 0 false
+powerUp 3 4 25 1 false
+powerUp 3 6 25 -1 false
+powerUp 2 12 25 1 false
+powerUp 6 1 26 0 false
+powerUp 1 2 26 -1 false
+powerUp 1 3 26 1 false
+powerUp 3 7 26 1 false
+powerUp 2 10 26 -1 false
+powerUp 1 13 26 -1 false
+powerUp 6 18 26 0 false
+powerUp 4 25 26 -100 false
+powerUp 1 33 26 1 false
+powerUp 1 35 26 1 false
+powerUp 3 10 27 1 false
+powerUp 4 16 27 -100 false
+powerUp 1 6 28 -1 false
+powerUp 2 11 28 1 false
+powerUp 4 22 28 100 false
+powerUp 5 26 28 1 false
+powerUp 2 33 28 1 false
+powerUp 3 38 28 -1 false
+powerUp 4 2 29 -100 false
+powerUp 3 26 29 1 false
+powerUp 2 34 29 1 false
+powerUp 3 3 30 -1 false
+powerUp 4 13 30 -100 false
+powerUp 3 16 30 -1 false
+powerUp 6 30 30 0 false
+powerUp 6 32 30 0 false
+powerUp 1 36 30 1 false
+powerUp 2 2 31 1 false
+powerUp 5 6 31 1 false
+powerUp 3 12 31 1 false
+powerUp 4 16 31 100 false
+powerUp 6 20 31 0 false
+powerUp 2 30 31 1 false
+powerUp 4 34 31 -100 false
+powerUp 5 5 32 1 false
+powerUp 1 28 32 -1 false
+powerUp 2 31 32 1 false
+powerUp 6 34 32 0 false
+powerUp 2 37 32 1 false
+powerUp 5 8 33 1 false
+powerUp 1 32 33 1 false
+powerUp 4 38 33 100 false
+powerUp 6 34 34 0 false
+powerUp 2 2 35 -1 false
+powerUp 4 4 35 100 false
+powerUp 6 10 35 0 false
+powerUp 4 32 35 -100 false
+powerUp 4 36 35 -100 false
+powerUp 3 1 36 -1 false
+powerUp 1 6 36 -1 false
+powerUp 4 8 36 100 false
+powerUp 3 11 36 1 false
+powerUp 5 14 36 -1 false
+powerUp 5 22 36 -1 false
+powerUp 4 27 36 100 false
+powerUp 2 4 37 1 false
+powerUp 6 38 37 0 false
+powerUp 2 9 38 -1 false
+powerUp 2 17 38 1 false
+powerUp 2 19 38 1 false
+powerUp 1 24 38 1 false
+powerUp 5 30 38 1 false
+powerUp 4 34 38 100 false
